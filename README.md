@@ -7,7 +7,7 @@ width="370px" height="420px">
 ![image](https://github.com/Giovannacastro18/Giovannacastro18/assets/146981860/60cd30f9-f908-4981-968c-5d148d67a83d)
 
 
-### encotra-me
+### encontra-me
 
 
 
